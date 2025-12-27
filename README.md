@@ -1,7 +1,7 @@
 # X Code
 
 A dark VS Code theme inspired by Vesper & Love for Coding themes.
-![X Code Logo](image/unnamed.png)
+![X Code Logo](image/unnamed.jpg)
 ![X Code Theme](image/preview.png)
 
 ## Credits
