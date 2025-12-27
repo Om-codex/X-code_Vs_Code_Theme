@@ -1,0 +1,20 @@
+{
+  "name": "x-code-theme",
+  "displayName": "X Code",
+  "description": "Customized & Inspired by Vesper Theme",
+  "version": "0.0.1",
+  "publisher": "om",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories":["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "X Code",
+        "uiTheme": "vs-dark",
+        "path": "./X-code.json"
+      }
+    ]
+  }
+}
